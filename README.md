@@ -2,6 +2,8 @@ Convex-Hull-Computational-Analysis
 A Comparative Study of Geometric Algorithms and Time Complexities
 Project Overview
 
+ ![Graham](https://github.com/user-attachments/assets/798ebcaf-e771-441c-ab5d-4f4dd453ba96)
+
 This repository contains a comprehensive computational analysis of the Convex Hull problem—finding the smallest convex polygon that encloses a given set of points. The project implements and evaluates three distinct algorithmic approaches, comparing their mathematical foundations and execution performance.
 Data Input & Setup
 
@@ -20,7 +22,9 @@ Plaintext
 (120.6, 873.2), (487.5, 965.4), (936.3, 286.7),
 (824.1, 755.5), (642.9, 213.8), (951.7, 848.9)
 
-Regex Logic: The system uses import re to scan the file for the (x, y) pattern. It extracts the numerical values regardless of line breaks or extra spaces, converting them into float tuples for processing. This makes it easy to copy-paste raw coordinate blocks directly from research notes or datasets.
+Regex Logic: The system uses import re to scan the file for the (x, y) pattern. It extracts the numerical values regardless of line breaks or extra spaces, converting them into float tuples for processing. This makes it easy to copy-paste raw coordinate blocks directly from research notes or
+datasets.
+
 Algorithms Implemented
 1. Graham Scan
 
