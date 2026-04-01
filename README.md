@@ -5,8 +5,7 @@ Project Overview
 <p align="center">
   <img src="https://github.com/user-attachments/assets/798ebcaf-e771-441c-ab5d-4f4dd453ba96" alt="Graham Scan Visualization">
 </p>
-
-Step-by-step construction of the convex hull using Graham Scan. Points that break convexity are removed during the process.
+                                                *Step-by-step construction of the convex hull using Graham Scan. Points that break convexity are removed during the process.*
 
 This repository contains a comprehensive computational analysis of the Convex Hull problem—finding the smallest convex polygon that encloses a given set of points. The project implements and evaluates three distinct algorithmic approaches, comparing their mathematical foundations and execution performance.
 Data Input & Setup
